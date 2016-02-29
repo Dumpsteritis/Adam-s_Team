@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 I couldn't believe this happened to me right off the bat. Usually, I do not experience intall issues but hey, it is a new class and new software. I will be getting the commands from the instructor in Slack, so no need to document now. The moral to the story is don't believe anything can not happen to just you.
+=======
+<<<<<<< HEAD
+I could not believe this happened to me just off the bat. Usually, I don't experiencce install issues but hey, it's a new class and new software. I'll be getting the commands from the instructor in Slack so no need to document now. The moral to the story is don't believe anything can't happen to just you.  
+=======
+I could not believe this happened to me right off the bat. Usually, I don't experience intall issues but hey, it's a new class and new software. I'll be getting the commands from the instructor in Slack so no need to document now. The moral to the story is don't believe anything can't happen to just you.
+>>>>>>> fcc75e4551383f30265937ba7c7415a66efc2bd0
+>>>>>>> 1700415a7b716d9dd4a826a648f6b56ec9098e0b
